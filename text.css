@@ -48,3 +48,26 @@ body {
 }
 
 /*Row-2-End*/
+
+
+/*Row-3-Start */
+.row3 {
+    margin-top: 10px;    
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    font-size: 17px;
+}
+
+#summary {
+    font-size: 20px;
+}
+/*Row-3-End*/
+
+
+
+/* Table-Start */
+.table-items {
+    margin: 10px;
+}
+/* Table-End */
