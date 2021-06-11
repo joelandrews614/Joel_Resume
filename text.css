@@ -1,0 +1,50 @@
+
+body {
+    background-color: blanchedalmond;
+    font-family: Tahoma, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+
+/*Row-1-Start*/
+.row1 {
+    margin-top: 10px;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+.resume-tag {
+
+    font-size: 30px;
+
+    display: flex;
+    justify-content: center;
+
+    border: 3px solid grey;
+    border-radius: 10px;
+    
+}
+/*Row-1-End*/
+
+/*Row-2-Start*/
+.row2 {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.col2Border {
+    border: 3px solid grey;
+    border-radius: 5px;
+
+}
+
+.name-tag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name-tag-joel {
+    font-size: 20px;
+}
+
+/*Row-2-End*/
