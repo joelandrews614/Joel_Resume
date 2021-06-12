@@ -38,6 +38,10 @@ body {
 
 }
 
+#address {
+    font-size: 16px;
+}
+
 .name-tag {
     display: flex;
     justify-content: center;
@@ -72,3 +76,10 @@ body {
     margin-right: auto;
 }
 /* Table-End */
+
+
+/*Row8-start*/
+.row8 {
+    font-size: 16px;
+}
+/*Row8-end*/
